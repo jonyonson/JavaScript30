@@ -20,7 +20,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [ ] 15 - LocalStorage
 - [ ] 16 - Mouse Move Shadow
 - [ ] 17 - Sort Without Articles
-- [ ] 18 - Adding Up Times with Reduce
+- [x] 18 - Adding Up Times with Reduce
 - [ ] 19 - Webcam Fun
 - [ ] 20 - Speech Detection
 - [ ] 21 - Geolocation
