@@ -17,7 +17,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [ ] 11 - Custom Video Player
 - [x] 13 - Slide in on Scroll
 - [ ] 14 - JavaScript References VS Copying
-- [ ] 15 - LocalStorage
+- [x] 15 - LocalStorage
 - [x] 16 - Mouse Move Shadow
 - [x] 17 - Sort Without Articles
 - [x] 18 - Adding Up Times with Reduce
